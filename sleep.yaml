@@ -47,4 +47,3 @@ spec:
         secret:
           secretName: sleep-secret
           optional: true
-
