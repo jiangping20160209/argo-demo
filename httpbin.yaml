@@ -38,7 +38,7 @@ spec:
     spec:
       serviceAccountName: httpbin
       containers:
-      - image: 10.1.200.132:6000/httpbin:v2
+      - image: 10.1.200.132:6000/httpbin:v3
         imagePullPolicy: IfNotPresent
         name: httpbin
         ports:
